@@ -1,4 +1,4 @@
-# Face-detection-in-video
+# Multiview-Video-Summarization for surveillance
 
 ## Overview
 
