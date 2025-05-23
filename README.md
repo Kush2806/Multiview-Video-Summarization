@@ -27,7 +27,7 @@ This project implements a pipeline for face detection, recognition, and video su
 
 ---
 
-## Project Structure
+## Project Structure (Photos are personal so Faces_cropped, Faces and their embedding files are not presented in this repo)
 
 ```
 .
