@@ -46,7 +46,7 @@ This project implements a pipeline for face detection, recognition, and video su
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Kush2806/Multiview-Video-Summarization.git
    cd Multiview-Video-Summarization
    ```
 
