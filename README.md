@@ -152,9 +152,4 @@ This project implements a pipeline for face detection, recognition, and video su
 ---
 
 **Contact:**  
-For questions or contributions, please open an issue or submit a pull request.
-
----
-
-Let me know if you want a requirements.txt or further customization for your README!
-
+For questions or contributions, please open an issue or submit a pull request. Would love open suggestions and discussions and issues to impove this project further.
